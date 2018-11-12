@@ -19,7 +19,7 @@ This git repo is intentionally empty, but have a look at the wiki:
 ### Remarks
  * This script has some requirements such as `pandoc`, missing requirements will be reported
  * Out of the box it will only convert referenced guidelines from the Wiki start page, open the script and change the 'includeUnreferenced' variable to include all markdown files.
- * This script does some preprocessing on the generated latex files such as  
+ * This script does some postprocessing on the generated latex files such as  
     * Creating a section to each guideline
     * Putting a label for the guideline name and guideline number in it
     * limits images to \linewidth
