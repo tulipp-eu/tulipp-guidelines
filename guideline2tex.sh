@@ -2,7 +2,7 @@
 
 # This will include every markdown file which is not referenced in the Home.md
 # AND is not included in blacklistFiles
-includeUnreferenced=1
+includeUnreferenced=0
 
 blacklistFiles="_Footer.md Guideline-Review-Template.md Guideline-Template.md"
 
